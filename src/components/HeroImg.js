@@ -11,6 +11,7 @@ const HeroImg = () => {
             <h1>Blog-post .</h1>
             <div>
                 <Link to="/login" className="btn">Login</Link>
+
                 <Link to="/signup" className="btn">Signup</Link>
             </div>
         </div>
